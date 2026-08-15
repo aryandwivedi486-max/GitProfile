@@ -58,12 +58,16 @@
 
 <td width="50%" valign="top">
 
-### 📊 Zepto Sales Analysis Dashboard
+<h3>📊 Zepto Sales Analysis Dashboard</h3>
 
+<p>
 Power BI dashboard analyzing Zepto's sales performance, customer ratings, outlet efficiency, and product trends.
+</p>
 
-**Tech Stack:**  
+<b>Tech Stack:</b><br>
 Power BI • Excel • Data Analysis • Data Visualization
+
+<br><br>
 
 🔗 <a href="https://github.com/aryandwivedi486-max/Zepto_Sales_Analysis_Project">Repository</a>
 
@@ -71,12 +75,16 @@ Power BI • Excel • Data Analysis • Data Visualization
 
 <td width="50%" valign="top">
 
-### ☕ Coffee Sales Analysis Dashboard
+<h3>☕ Coffee Sales Analysis Dashboard</h3>
 
+<p>
 Interactive sales dashboard built using Excel, Power Query, and Data Model to analyze sales performance and business KPIs.
+</p>
 
-**Tech Stack:**  
+<b>Tech Stack:</b><br>
 Excel • Power Query • Data Model • Dashboarding
+
+<br><br>
 
 🔗 <a href="https://github.com/aryandwivedi486-max/Coffee-Shop-Sales">Repository</a>
 
@@ -88,12 +96,16 @@ Excel • Power Query • Data Model • Dashboarding
 
 <td width="50%" valign="top">
 
-### 🔍 GitHub Profile Analyzer
+<h3>🔍 GitHub Profile Analyzer</h3>
 
-A Python-based project that leverages the GitHub REST API to fetch and analyze public GitHub profile data. It provides insights into repositories, followers, following count, account details, and user activity through a simple and structured interface.
+<p>
+A Python-based project that leverages the GitHub REST API to fetch and analyze public GitHub profile data. It provides insights into repositories, followers, following count, account details, and user activity.
+</p>
 
-**Tech Stack:**  
+<b>Tech Stack:</b><br>
 Python • REST API • Requests • JSON
+
+<br><br>
 
 🔗 <a href="https://github.com/aryandwivedi486-max/Github_Profile_Analyzer">Repository</a>
 
@@ -101,94 +113,166 @@ Python • REST API • Requests • JSON
 
 <td width="50%" valign="top">
 
-### 🚀 More Projects Coming Soon
+<h3>🏏 IPL 2022 Exploratory Data Analysis</h3>
 
-Currently working on Data Analytics, Python, SQL, AWS, and Data Engineering projects.
+<p>
+A capstone project exploring IPL 2022 data using Python and data analysis libraries. The project focuses on team performance, player statistics, scoring patterns, and visual insights.
+</p>
+
+<b>Tech Stack:</b><br>
+Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
+
+<br><br>
+
+🔗 <a href="https://github.com/aryandwivedi486-max/IPL-2022-Exploratory-Data-Analysis">Repository</a>
 
 </td>
 
 </tr>
 </table>
-<!-- Add your Projects here -->
+
 
 <h2 align="left">🥇 Certifications & Badges</h2>
 
 <table>
+
 <tr>
+
 <td align="center">
 <a href="Python Certification Part-1.pdf">
 <img src="infosys_python_part1.png" width="250">
-</a><br>
+</a>
+<br>
 <b>Infosys Python Part 1</b>
 </td>
 
 <td align="center">
 <a href="Python Certification Part-2.pdf">
 <img src="infosys_python_part2.png" width="250">
-</a><br>
+</a>
+<br>
 <b>Infosys Python Part 2</b>
 </td>
 
 <td align="center">
 <a href="Deloitte Data Analytics Certificate.pdf">
 <img src="deloitte_data_analytics.png" width="250">
-</a><br>
+</a>
+<br>
 <b>Deloitte Data Analytics</b>
 </td>
 
 <td align="center">
 <a href="TCS ION Ai Certtificate.pdf">
 <img src="certificatestcs_yuva_ai.png.png" width="250">
-</a><br>
+</a>
+<br>
 <b>TCS Yuva AI</b>
 </td>
+
 </tr>
 
-<td align="center">
-<a href="IBM Badge.pdf">
-<img src="IBM Data Analysis.png" width="250">
-</a><br>
-<b>Data Analysis Using Python</b>
-</td>
-</tr>
-</table>
-
-<h2 align="left">🏆 Achievements & Participation</h2>
-
-<table>
 <tr>
-
-<td align="center">
-<a href="Flutter ParticipationCertificate.pdf">
-<img src="Flutter Certificate.png" width="250">
-</a><br>
-<b>Flutter 8-Hour Tech Conference Participation</b>
-</td>
 
 <td align="center">
 <a href="Be10XCertificate.pdf">
 <img src="certificatesbe10x_ai_workshop.png" width="250">
-</a><br>
+</a>
+<br>
 <b>AI Tools Workshop</b>
 </td>
 
-</tr>
-</table>
-<!-- Add your certifications and badges here -->
-<table align="center">
-
-## 🎯 What I'm Looking For
-
-- Entry-level **Data Analyst** roles  
-- **Data Analytics / Business Analytics internships**  
-- Opportunities to work with **Python, SQL, Power BI, and Data Visualization**  
-- Real-world projects where I can apply **data-driven decision making**
-
-<table align="center">
-<tr>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandwivedi486-max&theme=default" alt="GitHub Streak" /> 
-<h2>🐍 System Processes</h2>
+<a href="IBM Badge.pdf">
+<img src="IBM Data Analysis.png" width="250">
+</a>
+<br>
+<b>Data Analysis Using Python</b>
+</td>
+
+</tr>
+
+</table>
+
+
+<h2 align="left">🏆 Achievements & Participation</h2>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<a href="Flutter ParticipationCertificate.pdf">
+<img src="Flutter Certificate.png" width="250">
+</a>
+<br>
+
+<b>Flutter 8-Hour Tech Conference Participation</b>
+
+</td>
+
+<td align="center">
+
+<a href="Be10XCertificate.pdf">
+<img src="certificatesbe10x_ai_workshop.png" width="250">
+</a>
+<br>
+
+<b>AI Tools Workshop</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="Unstop Ai Quiz.jpeg">
+<img src="Unstop Ai Quiz.jpeg" width="250">
+</a>
+<br>
+
+<b>Unstop AI Quiz</b>
+
+</td>
+
+<td align="center">
+
+<a href="Vibe2ShipCert_Aryan Dwivedi.pdf">
+<img src="Hackathon.png" width="250">
+</a>
+<br>
+
+<b>Vibe2Ship Hackathon Participation</b>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<h2 align="left">🎯 What I'm Looking For</h2>
+
+<ul>
+<li>Entry-level <b>Data Analyst</b> roles</li>
+<li><b>Data Analytics / Business Analytics</b> internships</li>
+<li>Opportunities to work with <b>Python, SQL, Power BI, and Data Visualization</b></li>
+<li>Real-world projects where I can apply <b>data-driven decision making</b></li>
+</ul>
+
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/github-contribution-grid-snake-dark.svg" width="850">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryandwivedi486-max&theme=default" alt="GitHub Streak" />
+</p>
+
+
+<h2 align="left">🐍 Contribution Activity</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AnkitShukla-arch/AnkitShukla-arch/output/github-contribution-grid-snake-dark.svg" width="850" alt="GitHub Contribution Snake">
 </p>
